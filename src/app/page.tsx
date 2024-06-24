@@ -5,3 +5,5 @@ const Home: React.FC = () => {
     </main>
   );
 };
+
+export default Home;
